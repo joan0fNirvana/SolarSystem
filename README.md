@@ -1,2 +1,2 @@
 # SolarSystem
-project solarsystem lol
+project solarsystem 
